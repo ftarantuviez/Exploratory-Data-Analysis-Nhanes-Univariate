@@ -22,7 +22,7 @@ st.write('---')
 st.write("""
   The purpose of this app is analyse the data from [NHANES](https://www.cdc.gov/nchs/nhanes/index.htm) survey. It contains a lot of different health statistics such as blood pressure, BMI, etc. and demographic one like gender, education level and so on. 
 
-  Also, this project is a univariate analysis of the data. In this other [TODO](https://google.com) there is a more extensive analysis of the same data, where I mixed and groupped different variables to understand deeply this dataset.
+  Also, this project is a univariate analysis of the data. In this other [project](https://tarantuviez-9.herokuapp.com/) there is a more extensive analysis of the same data, where I mixed and groupped different variables to understand deeply this dataset.
 """)
 
 def load_data():
@@ -36,6 +36,6 @@ nhanes_univariate_analysis(df)
 st.write("""
 ## App repository
 
-[Github](https://github.com/ftarantuviez/)TODO
+[Github](https://github.com/ftarantuviez/Exploratory-Data-Analysis-Nhanes-Univariate)
 """)
 # / This app repository
